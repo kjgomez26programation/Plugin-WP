@@ -1,0 +1,37 @@
+# Gallery Images Plugin
+
+El Gallery Images Plugin es un plugin de WordPress que te permite crear una galería de imágenes personalizada en tu sitio web.
+
+## Instalación
+
+1. Descarga el archivo ZIP del plugin desde [enlace al archivo ZIP] https://github.com/kjgomez26programation
+2. En el panel de administración de WordPress, ve a "Plugins" y selecciona "Añadir nuevo".
+3. Haz clic en "Subir plugin" y selecciona el archivo ZIP que descargaste.
+4. Haz clic en "Instalar ahora" y luego en "Activar" para activar el plugin.
+
+## Uso
+
+El plugin añade un shortcode que puedes utilizar para insertar la galería de imágenes en tus entradas o páginas.
+
+1. Abre el editor de una entrada o página en la que deseas mostrar la galería.
+2. Inserta el shortcode `[mi_plugin_galeria]` en el contenido donde quieres que aparezca la galería.
+3. Actualiza la entrada o página y visualiza el resultado.
+
+El shortcode `[mi_plugin_galeria]` admite el siguiente atributo opcional:
+
+- `tamano_miniatura`: Permite especificar el tamaño de las miniaturas de las imágenes en la galería. Por ejemplo: `[mi_plugin_galeria tamano_miniatura="150px"]`.
+
+## Personalización
+
+Puedes personalizar la apariencia de la galería modificando el archivo CSS y el archivo JavaScript proporcionados con el plugin.
+
+- Estilos CSS: Los estilos CSS se encuentran en el archivo `assets/css/gallery.css`. Puedes ajustar los estilos según tus necesidades para cambiar la apariencia de la galería.
+- Funcionalidad JavaScript: La funcionalidad JavaScript se encuentra en el archivo `assets/js/gallery.js`. Puedes modificar este archivo para agregar interacciones o comportamientos personalizados a la galería.
+
+## Soporte
+
+Si necesitas ayuda o tienes alguna pregunta relacionada con el Gallery Images Plugin, puedes contactarnos en kallyjhojanagomez@gmail.com
+
+## Contribuciones
+
+¡Estamos abiertos a contribuciones! Si deseas colaborar en el desarrollo del plugin, puedes enviar un pull request en [GitHub] https://github.com/kjgomez26programation
